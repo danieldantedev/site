@@ -1,0 +1,18 @@
+{
+	"nome": "cosmicrain",
+	"title": "Cosmic Rain",
+	"subtitle": [
+		"platformer"
+	],
+	"description": "Second game to be (hopefully) released later this year, i'm programming, doing the sound design and music, it's a mix between match3, platformer and cooking games!",
+	"image": "cosmicrain.png",
+	"thumb": "cosmicrain-thumb.jpg",
+	"links": [
+		{
+			"nome": "itch.io", 
+			"link": "https://expressostudios.itch.io/cosmic-rain", 
+			"icon": "gamepad",
+			"color": "is-danger"
+		}
+	] 
+}

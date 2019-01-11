@@ -1,0 +1,24 @@
+{
+	"nome": "theplatformergun",
+	"title": "The Platformer Gun",
+	"subtitle": [
+		"platformer"
+	],
+	"description": "My first game to be released on steam, this one i did all by myself and you use your Platformer gun to create your way to surpass the obstacles and escape big evil dudes in 80+ levels!",
+	"image": "tpg-foto.png",
+	"thumb": "theplatformergun-thumb.jpg",
+	"links": [
+		{
+			"nome": "Steam", 
+			"link": "https://store.steampowered.com/app/833540/The_Platformer_Gun/", 
+			"icon": "steam",
+			"color": "is-dark"
+		},
+		{
+			"nome": "itch.io", 
+			"link": "https://danieldante.itch.io/theplatformergun", 
+			"icon": "gamepad",
+			"color": "is-danger"
+		}
+	] 
+}
